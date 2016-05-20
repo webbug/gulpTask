@@ -1,0 +1,20 @@
+*{margin:0;padding:0}
+li,ol,ul{list-style:none}
+a{text-decoration:none}
+img{border:none}
+.tudou_main{width:616px;margin-left:auto;margin-right:auto}
+.title{height:62px;line-height:62px;border-top:1px solid #d0d0d0;margin-top:20px;margin-bottom:20px;overflow:hidden}
+.title h3{color:#575757;font-weight:400;font:22px/62px "微软雅黑";width:106px;border-top:solid 2px #f97374;margin-top:-1px;position:relative;float:left;height:61px}
+.title_nav{float:right;font-family:14px;color:#575757}
+.title_nav li{float:left}
+.title_nav a{color:#575757}
+.title_nav a:hover{color:red}
+.title_nav span{margin:0 11px}
+.item{width:130px;height:164px;float:left;margin-right:25px}
+.item_img{height:78px;position:relative}
+.item_img img{width:130px;height:78px;display:block}
+.item_img span{position:absolute;right:0;bottom:0;width:35px;height:18px;line-height:18px;font-size:12px;color:#fff;background:red;text-align:center;border-radius:5px}
+.item_list{line-height:22px;font-size:12px;float:left}
+.item:last-child{margin-right:-25px}
+.content{zoom:1}
+.content:after{content:"";display:block;clear:both}
